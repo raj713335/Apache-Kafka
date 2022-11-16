@@ -8,5 +8,6 @@ https://kafka.apache.org/downloads
 # Starting Kafka Zookeper 
 
 ```
-$ bin\windows\zookeeper-server-start.bat etc\kafka\zookeper.properties
+C:\kafka_2.12-3.3.1>bin\windows\zookeeper-server-start.bat config\zookeeper.properties
+C:\kafka_2.12-3.3.1>bin\windows\zookeeper-server-start.bat config\server.properties
 ```
