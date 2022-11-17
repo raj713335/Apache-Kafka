@@ -9,6 +9,12 @@ https://kafka.apache.org/downloads
 
 ```
 C:\kafka_2.12-3.3.1>bin\windows\zookeeper-server-start.bat config\zookeeper.properties
+
+```
+
+# Starting Kafka Broker 
+
+```
 C:\kafka_2.12-3.3.1>bin\windows\kafka-server-start.bat config\server.properties
 ```
 
